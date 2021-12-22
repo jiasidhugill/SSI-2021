@@ -10,6 +10,7 @@ import sklearn.metrics
 from sklearn.metrics import r2_score
 
 # importing data locally from computer; see README for links to datasets and cleaning-data.py for data cleaning steps
+# data is also uploaded in the data folder of the repository
 house_data = pd.read_csv("house_data.csv")
 sen_data = pd.read_csv("sen_data.csv")
 
