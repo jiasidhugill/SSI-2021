@@ -1,6 +1,7 @@
 # SSI-2021
 Code for my project from Summer STEM Institute, 2021: **Analyzing the Relationships Between PAC Contributions, Incumbency, Political Party, and Campaign Success**
-My final paper: SSI-2021/SSI_2021_Final_Paper__Jia_Gill_.pdf
+
+My final paper: https://github.com/jiasidhugill/SSI-2021/blob/992195196db8ccacc72b64e07cbd8aa86e7d9e43/README.md
 
 ## Project Description
 Election finance affects all political campaigns and defines those who win political power and influence. Understanding this relationship can highlight the influence of money in politics and the ways in which it affects democracy. This project examines how reliance on different sources of funding — individuals, political parties, and political action committees (PACs) — affect the number of votes won by a political campaign. It will also study factors already known to affect election chances and how they interact with campaign success. In this project, linear regression models were used to answer the question of how sources of funding affect the percentage of votes won by a political candidate. Chi-Squared tests were used to analyze whether the categorical factors of incumbency and political party had statistically significant relationships with votes won or financial data. It was found that PAC money had a stronger relationship with votes won than individual contributions. Also, challengers are more likely to rely heavily on individual donations, while incumbents are more likely to rely on PAC money. Meanwhile, incumbents and members of the Democratic and Republican party were most likely to rely heavily on PAC funding. Policymakers who wish to combat this influence may use these results to avoid unwarranted financial influence in government.
