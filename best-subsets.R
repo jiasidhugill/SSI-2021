@@ -1,3 +1,5 @@
+# R has the functionality for a linear regression that chooses the best subsets of variables to use, factoring in multicollinearity and the accuracy of the model.
+# I used R to make my linear regression model more accuracte.
 # This was done for both House and Senate data.
 
 library(leaps)
