@@ -11,7 +11,8 @@ Election finance affects all political campaigns and defines those who win polit
  - Fitting a linear regression for maximum accuracy  (including how to pick the best variables)
  - How to use the libraries `statsmodels`, `scipy.stats`, `sklearn.metrics` for machine learning in Python
  - Basic R programming for linear regression
- - Chi-squared tests in Python
+ - Chi-squared tests in python
+ - Post-hoc tests in python
 
 ## Datasets Used
 Federal Election Commission, 2021, “All Candidates”, https://www.fec.gov/data/browse-data/?tab=bulk-data#bulk-data
